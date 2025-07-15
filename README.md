@@ -1,1 +1,1 @@
-# Portfolio
+I created this portfolio using HTML and Tailwind CSS based on my resume. It helped me practice responsive layout, semantic HTML, and utility-based styling. I included demo projects to showcase my understanding of card layout and interactivity using Tailwind. This was my first major web project, and I enjoyed it a lot!
